@@ -1,29 +1,38 @@
+# iChoBagunça
 
-# Projeto iChoBagunça!
+O **iChoBagunça** é um utilitário de linha de comando simples desenvolvido em Python para organizar e estruturar arquivos em um diretório. O programa realiza a tarefa de separar os arquivos com base em suas extensões, criando pastas distintas para cada tipo de arquivo.
 
-O iChoBagunça é um software que criei para me ajudar a automatizar a organização do meu computador.
-- iChoBagunça cria uma pasta para cada tipo de arquivo, e move todos os arquivos desse tipo para uma pasta com esse nome.
+## Funcionalidades
 
-# Como usar
-- Baixe o iChoBagunça.exe desse repositório
-- Mova-o para a pasta que deseja organizar
-- Crie uma pasta chamada "org" e mova todos os arquivos para lá(menos o iChoBagunça.exe)
-- Execute o iChoBagunça.exe e espere a magia acontecer!
+- **Separação por Extensões:** Analisa os arquivos presentes em um diretório e os separa com base em suas extensões.
+
+- **Criação Automática de Pastas:** Cria automaticamente pastas para cada tipo de extensão identificada.
+
+- **Movimentação de Arquivos:** Move os arquivos para as pastas correspondentes às suas extensões.
+
+## Como Utilizar
+
+Certifique-se de ter o Python instalado em seu sistema antes de executar o programa. Você pode rodar o script Python utilizando o seguinte comando no terminal:
+
+```bash
+python nome_do_script.py
+```
+
+## Exemplo de Uso
+
+Considere o seguinte diretório antes da execução do programa:
+
+#Print Pré
+
+Após a execução do **iChoBagunça**, o diretório será reorganizado da seguinte forma:
+
+#Print Pós
 
 
+## Contribuições
 
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar problemas, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
+## Autor
 
-## Referência
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Python](https://www.python.org/doc/)
- - [Biblioteca OS](https://docs.python.org/3/library/os.html)
-
-
-## Autores
-
-- [Marcos Paulo](https://github.com/MarcosP-Costa)
-
+[Marcos Paulo](https://github.com/MarcosP-Costa)

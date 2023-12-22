@@ -8,7 +8,7 @@ venv/
 env/
 iChoBagunca/
 Scripts/
-org/
+
 
 # Logs e arquivos temporários
 *.log

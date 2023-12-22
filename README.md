@@ -15,7 +15,7 @@ O **iChoBagunça** é um utilitário de linha de comando simples desenvolvido em
 Certifique-se de ter o Python instalado em seu sistema antes de executar o programa. Você pode rodar o script Python utilizando o seguinte comando no terminal:
 
 ```bash
-python nome_do_script.py
+python iChoBagunca.py
 ```
 
 ## Exemplo de Uso

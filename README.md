@@ -22,12 +22,11 @@ python nome_do_script.py
 
 Considere o seguinte diretório antes da execução do programa:
 
-#Print Pré
+![image](https://github.com/MarcosP-Costa/iChoBagunca/assets/44422455/e7f7b3cf-e5de-4398-a193-919cb3a40d74)
 
 Após a execução do **iChoBagunça**, o diretório será reorganizado da seguinte forma:
 
-#Print Pós
-
+![image](https://github.com/MarcosP-Costa/iChoBagunca/assets/44422455/99ce1ec8-ea75-438b-9076-17187b48b623)
 
 ## Contribuições
 
